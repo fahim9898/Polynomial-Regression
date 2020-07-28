@@ -1,6 +1,6 @@
 # Demo
 ![best](https://i.imgur.com/8192SIo.gif)
-[link](https://www.tensorflow.org/js)
+- [link](https://www.tensorflow.org/js)
 # Why Polynomial Regression?
 - To understand the need for polynomial regression, let’s generate some random dataset first.
 The data generated looks like
